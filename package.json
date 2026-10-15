@@ -1,0 +1,14 @@
+{
+  "name": "petshop-api",
+  "version": "1.0.0",
+  "description": "Sistema Pet Shop Amigo Fiel - atividade prática MySQL e Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.24.6"
+  }
+}
